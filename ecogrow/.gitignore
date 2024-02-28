@@ -10,3 +10,15 @@ mobile_app/ios/
 # Data/Notebooks
 data/sensor_logs/
 notebooks/*.ipynb_checkpoints/
+# Firmware
+firmware/.pio/
+# Backend
+backend/__pycache__/
+backend/.env
+# Mobile App
+mobile_app/node_modules/
+mobile_app/android/
+mobile_app/ios/
+# Data/Notebooks
+data/sensor_logs/
+notebooks/*.ipynb_checkpoints/
